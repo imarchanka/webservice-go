@@ -1,3 +1,3 @@
-module github.com/imarchanka/webservice
+module github.com/imarchanka/webservice-go
 
 go 1.15

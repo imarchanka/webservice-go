@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/imarchanka/webservice/controllers"
+	"github.com/imarchanka/webservice-go/controllers"
 )
 
 func main() {
